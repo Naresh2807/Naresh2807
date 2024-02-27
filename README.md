@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Durga Prasad</h1>
-<h3 align="center">An AI enthusiast with a passion for problem-solving</h3>
+<h1 align="center">Hi 👋, I'm Naresh Krishnan.M</h1>
+<h3 align="center">An AI enthusiast with a passion for problem-solving and a web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=durgaprasad-kakarla&label=Profile%20views&color=0e75b6&style=flat" alt="durgaprasad-kakarla" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
 
-- 📫 How to reach me **kakarladuragaprasad92003@gmail.com**
+- 📫 How to reach me **nareshkrishnan.m28@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
