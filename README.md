@@ -8,11 +8,11 @@
 
 - ⚡I'm a **web developer**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **web developer**
 
-- 👯 I’m looking to collaborate on **Data Science projects**
+- 👯 I’m looking to collaborate on **web developer projects**
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Natural Language Processing,Computer Vision**
+- 💬 And also performance it  **python development, Machine Learning,Deep Learning,Natural Language Processing,Computer Vision and data science **
 
 - 📫 How to reach me **nareshkrishnan.m28@gmail.com**
 
