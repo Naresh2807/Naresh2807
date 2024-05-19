@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on [Live Video Captioning and Audio Synthesis Project](https://github.com/Naresh2807/Live-Video-Captioning-and-Audio-Synthesis)
 
+- ⚡I'm a **web developer**
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
