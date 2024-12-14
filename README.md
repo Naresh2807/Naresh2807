@@ -4,19 +4,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- - ⚡ I specialize in **freelance project development**, running a project center where I bring innovative ideas to life.  
-- 🌱 I’m always exploring and learning new technologies to develop **creative and impactful solutions**.  
-- 👯 I’m excited to collaborate on **freelance projects** and **groundbreaking innovations** in both web and AI development.  
+- ⚡ I specialize in **freelance project development**, running a project center where I bring innovative ideas to life.
+   
+- 🌱 I’m always exploring and learning new technologies to develop **creative and impactful solutions**.
+  
+- 👯 I’m excited to collaborate on **freelance projects** and **groundbreaking innovations** in both web and AI development.
+  
 - 💬 My expertise includes **Python programming, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Data Science**, with a passion for developing **new and unique solutions**.
+  
+- 📫 How to reach me **nareshkrishnan.m28@gmail.com**
+  
+- ⚡ Fun fact **I am funny**
+  
 ### Notable Projects
 - 📱 **QR Scanner Extension**: A browser extension that simplifies scanning QR codes for enhanced user experience.  
   [Download QR Scanner](https://microsoftedge.microsoft.com/addons/detail/qr-scanner/lcjdgaccpmjiombhnkhjjdheejfkhkdm?hl=en-US)
   
 - 🔒 **PhishTor**: A browser plugin aimed at detecting phishing attacks and ensuring safer browsing.  
   [Download PhishTor](https://microsoftedge.microsoft.com/addons/detail/phishtor/nppfnidllejklhjccpkgkcjbfbogpcod?hl=en-US)
-- 📫 How to reach me **nareshkrishnan.m28@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
